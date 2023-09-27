@@ -5,6 +5,10 @@ An implementation of the Multi-Neighborhood Neural Cellular Automata (MNNCA), en
 
 Cellular Automata (CA) have long been foundational in simulating dynamical systems computationally. With recent innovations, this model class has been brought into the realm of deep learning by parameterizing the CA's update rule using an artificial neural network, termed Neural Cellular Automata (NCA). This allows NCAs to be trained via gradient descent, enabling them to evolve into specific shapes, generate textures, and mimic behaviors such as swarming. However, a limitation of traditional NCAs is their inability to exhibit sufficiently complex behaviors, restricting their potential in creative and modeling tasks. Our research explores enhancing the NCA framework by incorporating multiple neighborhoods and introducing structured noise for seed states. This approach is inspired by techniques that have historically amplified the expressiveness of classical continuous CA. All code is publicly available
 
+## Examples
+
+![Example GIF 3](Media/texture3.gif)
+
 ## References
 
 1. John von Neumann. *Theory of Self-Reproducing Automata*. University of Illinois Press, Urbana, IL, 1966.
