@@ -7,7 +7,9 @@ Cellular Automata (CA) have long been foundational in simulating dynamical syste
 
 ## Examples
 
-![Example GIF 3](Media/texture3.mp4)
+![Example GIF 1](Media/texture1small.gif)
+
+![Example GIF 2](Media/texture3small.gif)
 
 ## References
 
